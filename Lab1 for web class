@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>	Dennis J. Dicki</title>
+	
+</head>
+
+<body style="background-color:lightgrey">
+	<hr>
+	<h1></h1>
+	 <div style="background-color:black; color:white; margin:20px; padding:20px;">
+
+	<h2>Dennis J. Dicki</h2>
+	</div>
+	
+	
+	
+		<p>I graduated from Ohio University a long time ago.  I have been happily married to my best friend De for 9 yrs. 
+		I have been working at NASA for the last 30 years in 
+		their Propulsion Systems Lab.  We test a variety of engines including Ram Jet, Scram Jet and conventional gas turbine
+		engines for both commercial and military applications.
+		</p>
+		
+		<p>For the last few years our facility has concentrated on testing engine icing issues since this a a growing problem 
+		and ours is the only facility in the world that can test a jet engine under icing conditions at altitude.
+		</p>
+		
+		<img src="nasa.jpg" width="225" height="200">
+		<img src="psl.jpg" width="275" height="200">
+		<img src="nasa.jpg" width="225" height="200">
+		
+		<p>Check out our facility at<a href="http://facilities.grc.nasa.gov/psl/index.html"/> NASA's Propulsion Systems Lab</a>, It is the Best
+		jet engine test facility in the world!!!</p>
+		
+	<table border="2">
+		<tr>
+			<td>Love the Browns</td>
+			<td>I wish they would keep a coach for awhile</td>
+		<tr>
+			<td>They had a disappointing year</td>
+			<td>There is always next year</td>
+		</tr>
+	
+		<tr>
+			<td>The Buc's did great!</td>
+			<td>Won the first play-off championship</td>
+		</tr>
+	</table>
+	
+	<p>I love to go skiing, kayaking, running and camping.  My wife and myself just bought
+	a pair of stand up paddle boards that we are anxious to try out!!
+	</p>
+	<hr>
+</body>
+
+</html>
